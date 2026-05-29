@@ -1,0 +1,6 @@
+{
+  "name": "FIERI Research",
+  "description": "Plateforme scientifique premium pour clubs étudiants et chercheurs en Afrique de l'Ouest",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
